@@ -1,17 +1,19 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "bcscore-lib",
+  "main": "./bcscore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://bcschain.org",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "CryptoFugu <hello@cryptofugu.com>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your bcs project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "cryptofugu",
+	"bcs",
+	"bitcoin",
     "bitcore",
     "btc",
     "satoshi"

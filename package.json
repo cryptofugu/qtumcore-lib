@@ -1,8 +1,8 @@
 {
-  "name": "qtumcore-lib",
-  "version": "0.0.1",
-  "description": "A pure and powerful JavaScript QTUM library.",
-  "author": "QTUM <foundation@qtum.org>",
+  "name": "bcscore-lib",
+  "version": "0.0.2",
+  "description": "A pure and powerful JavaScript BCS Chain library.",
+  "author": "CryptoFugu <hello@cryptofugu.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -12,7 +12,9 @@
   },
   "contributors": [],
   "keywords": [
-    "qtum",
+    "cryptofugu",
+	"bcs chain",
+	"bcs",
     "bitcoin",
     "transaction",
     "address",
@@ -30,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/qtumproject/qtumcore-lib.git"
+    "url": "https://github.com/cryptofugu/bcscore-lib.git"
   },
   "browser": {
     "request": "browser-request"
